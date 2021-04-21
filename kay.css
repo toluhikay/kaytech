@@ -1,0 +1,141 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+header{
+    background-image: url(tech.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgb(81, 99, 99);
+    background-blend-mode: soft-light ;
+    border-color: wheat;
+    
+}
+#welcome{ 
+    padding-top: 100px;
+    padding-left: 450px;
+    color:wheat;
+    font-size: 40px;
+}
+#at{
+    padding-top: 50px;
+    padding-left: 40px;
+    padding-right: 40px;
+    text-align:center;
+    color: wheat;
+    font-size: 20px;
+}
+#read{
+    background-color: rgb(143, 192, 187);
+    background-size: 30px, 40px;
+    margin-right: 400px;
+    margin-left: 600px;
+    display: inline-block;
+    color: wheat;
+    text-decoration: wheat, none;
+    margin-top: 100px;
+    font-size: 30px;
+}
+#web{
+    text-align: center;
+}
+#div1{
+    background-color: antiquewhite;
+    display: grid;
+}
+#p1{
+    font-size: 20px;
+    size: 200px, 200px;
+    padding-left: 200px;
+    padding-right: 20px;
+    padding-top: 20px;
+}
+#section{
+    margin-top: 0px ;
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+#p2{
+    float:right;
+    font-size: 20px;
+    padding-left: 20px;
+    padding-right: 200px;
+    padding-top: 20px;
+}
+#div2{
+    display: flex;
+    padding-left: 150px;
+    padding-right: 150px;
+    flex-grow: 1;
+    padding-top: 20px;
+    box-sizing: border-box;
+    font-size: 20px;
+    background-color: dimgrey;
+}
+#mobile{
+    padding-right: 10px;
+    text-align: center;
+    background-color: honeydew;
+    margin-right: 20px;
+    padding-left: 10px;
+    padding-top: 10px;
+    margin-bottom: 10px;
+}
+#web1{
+    padding-right: 10px;
+    text-align: center;
+    background-color: honeydew;
+    margin-right: 20px;
+    padding-left: 10px;
+    padding-top: 10px;
+    margin-bottom: 10px;
+}
+#tech{
+    padding-right: 10px;
+    text-align: center;
+    background-color: honeydew;
+    margin-right: 20px;
+    padding-left: 10px;
+    padding-top: 10px;
+    margin-bottom: 10px;
+}
+#teco{
+    padding-left: 130px;
+    padding-right: 130px;
+    padding-bottom: 30px;
+}
+#div3{
+    display: flex;
+    flex: 1000px;
+    text-align: center;
+    font-size: 20px;
+}
+#contact{
+    background-color: royalblue;
+    flex-basis: 2600px;
+    padding-top: 30px;
+    padding-right: 100px;
+    padding-left: 100px;
+    padding-bottom: 30px;
+}
+#about{
+    background-color: slategrey;
+    padding-right: 100px;
+    padding-left: 100px;
+    padding-bottom: 30px;
+}
+#footer{
+    display: flex;
+    text-align: center;
+    background-color: black;
+}
+#h41{
+    padding-left: 150px;
+    padding-right: 300px;
+    color: blanchedalmond;
+}
+#h42{
+    padding-left: 300px;
+    color: blanchedalmond;
+    padding-right: 100px;
+}
